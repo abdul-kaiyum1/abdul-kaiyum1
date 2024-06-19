@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @abdul-kaiyum1
+# 👋 Hi, I’m Abdul Kaiyum
 
 - 👀 I’m interested in software development, artificial intelligence, and innovative tech solutions.
 - 🌱 I’m currently learning advanced machine learning techniques and full-stack web development.
